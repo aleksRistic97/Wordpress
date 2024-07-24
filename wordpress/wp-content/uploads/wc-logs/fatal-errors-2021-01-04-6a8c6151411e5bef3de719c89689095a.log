@@ -1,0 +1,10 @@
+2021-01-04T21:42:21+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\site03\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Routes\CartItems.php on line 11
+
+2021-01-04T21:42:21+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\site03\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Routes\CartCoupons.php on line 11
+
+2021-01-04T21:42:21+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\site03\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Routes\CartCouponsByCode.php on line 11
+
+2021-01-04T21:42:23+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\site03\wordpress\wp-includes\Requests\Transport\cURL.php on line 163
+
+2021-01-04T21:42:56+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\site03\wordpress\wp-includes\wp-db.php on line 2056
+
